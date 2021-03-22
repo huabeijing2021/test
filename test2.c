@@ -5,5 +5,7 @@ int main()
     printf ("%c\n",ch);
     int age=20;
     printf("%d\n",age);
+    long num = 1000;
+    printf("%d\n",num);
     return 0;
 } 
